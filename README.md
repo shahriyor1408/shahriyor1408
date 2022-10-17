@@ -8,18 +8,17 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Student at Tashkent University of information technology
+       My faculty is Cyber security
   <br>
-    My faculty is Cyber security
+       I am a junior Java Backend developer.
   <br>
-    I am a junior Java Backend developer.
+       I am a hardworking with a great interest to learn
   <br>
-    I am a hardworking with a great interest to learn
+       new technologies. My biggest intention now,
   <br>
-    new technologies. My biggest intention now,
+       becoming a strong IT specialist, working with
   <br>
-    becoming a strong IT specialist, working with
-  <br>
-    great team and gathering good experience.
+       great team and gathering good experience.
 
   <br>
   

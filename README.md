@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a junior Java Backend developer. I
+am a hardworking with a great interest to learn
+new technologies. My biggest intention now,
+becoming a strong IT specialist, working with
+great team and gathering good experience.
 
 <!--
 **shahriyor1408/shahriyor1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

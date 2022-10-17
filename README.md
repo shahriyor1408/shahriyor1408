@@ -27,9 +27,8 @@
 
   ## 📚 &nbsp;Currently studying
   
-  - Microservices architecture    - Microservices architecture  
-  - Clean architecture            - Clean architecture
-
+  - Microservices architecture
+  - Clean architecture        
 <div>
 
   ## 📫 &nbsp;My Contacts

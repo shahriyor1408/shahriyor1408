@@ -55,7 +55,7 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![Java](https://img.icons8.com/color/96/java-coffee-cup-logo.png)
+  ![Java](https://img.icons8.com/color/96/java-coffee-cup-logo.png?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 

@@ -3,7 +3,7 @@
 
 <br>
 
-###  HI, I am Shahriyor Sohidjonov
+###  Hi, I am Shahriyor Sohidjonov
 
   ## 🧭 &nbsp;About Me
 

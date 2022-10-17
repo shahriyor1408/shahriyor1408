@@ -7,7 +7,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Student at Tashkent University of information technology
+   📚  Student at Tashkent University of information technology
   <br>
        My faculty is Cyber security
   <br>

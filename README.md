@@ -3,19 +3,22 @@
 
 <br>
 
-</div>
 ###  HI, I am Shahriyor Sohidjonov
-
-
-<div>
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
-    I am a junior Java Backend developer. I
-    am a hardworking with a great interest to learn
+  - 📚 Student at Tashkent University of information technology
+  <br>
+    My faculty is Cyber security
+  <br>
+    I am a junior Java Backend developer.
+  <br>
+    I am a hardworking with a great interest to learn
+  <br>
     new technologies. My biggest intention now,
+  <br>
     becoming a strong IT specialist, working with
+  <br>
     great team and gathering good experience.
 
   <br>
@@ -75,10 +78,8 @@
 <div>
 
   ## 📫 &nbsp;My Contacts
-
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)](https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Shahriyor Sohidjonov?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)](https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-sohidjonovshahriyor1408@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sohidjonovshahriyor1408@gmail.com)&nbsp;
 
 </div>
 

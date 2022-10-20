@@ -3,13 +3,7 @@
 
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Dilshodbek Otajonov!;Welcome+to+my+GitHub+Profile!">
-</h1>
-
-<h1 align="center">
-	<a href="https://github.com/DilshodbekOtajonov" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-	</a>
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shahriyor Sohidjonov!;Welcome+to+my+GitHub+Profile!">
 </h1>
 <br>
 

@@ -31,13 +31,7 @@
   
   - Microservices architecture
   - Clean architecture        
-<div>
-
-  ## 📫 &nbsp;My Contacts
-  [![LinkedIn Badge](https://img.shields.io/badge/-Sohidjonov_Shahriyor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)](https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-sohidjonovshahriyor1408@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sohidjonovshahriyor1408@gmail.com)&nbsp;
-
-</div>
+  
 
 ## 🛠️ My Skills
 
@@ -102,6 +96,14 @@
  
 	
 </p>
+
+<div>
+
+  ## 📫 &nbsp;My Contacts
+  [![LinkedIn Badge](https://img.shields.io/badge/-Sohidjonov_Shahriyor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)](https://www.linkedin.com/in/shahriyor-sohidjonov-14ba1a225/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-sohidjonovshahriyor1408@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sohidjonovshahriyor1408@gmail.com)&nbsp;
+
+</div>
 
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->

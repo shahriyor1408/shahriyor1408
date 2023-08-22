@@ -9,21 +9,16 @@
 
   ## 🧭 &nbsp;About Me
 
-   📚  Student at Tashkent University of information technology
-  <br>
-       My faculty is Cyber security
-  <br>
-       I am a junior Java Backend developer.
-  <br>
-       I am a hardworking with a great interest to learn
-  <br>
-       new technologies. My biggest intention now,
-  <br>
-       becoming a strong IT specialist, working with
-  <br>
-       great team and gathering good experience.
+   Motivated and enthusiastic Junior Java Developer with a strong foundation in Java programming and a keen interest in software development. I am eager to apply my skills and knowledge to contribute to a dynamic team and make a positive impact in the field.
 
-  <br>
+During my education in PDP Academy, I gained a solid understanding of core Java concepts, data structures, and algorithms. I am comfortable working with Java frameworks such as Spring and have experience in building web applications using technologies like HTML, CSS, and JavaScript.
+
+I have a passion for writing clean and efficient code and believe in following best practices and industry standards. I am a quick learner, always seeking opportunities to expand my skill set and stay updated with emerging trends and technologies in the Java ecosystem.
+
+As a team player, I thrive in collaborative environments and value open communication and knowledge sharing. I have experience working on group projects and contributing to the full software development lifecycle. I am detail-oriented and take pride in delivering high-quality work within project deadlines.
+
+I am eager to contribute my skills and grow as a Java developer within a supportive and challenging environment. If you are looking for a dedicated and motivated junior developer who is eager to learn and contribute to your team's success, I would love to connect and explore potential opportunities.
+<br>
   
 <div>
 
